@@ -1,2 +1,1 @@
-# workforce
-FairShift: a dual-interface decent work platform for UN SDG 8. A mobile worker app (shift and overtime tracking, clear payslips, anonymous hazard reports) and an employer dashboard (fatigue alerts, safety escalation, quit-risk analytics), working across Construction and Hospital sectors. Built for Prompt Wars 2026 × SRM ACM.
+https://ai.studio/apps/9d14a1ec-5ac6-4880-a996-c95a5979c037?fullscreenApplet=true    ,,, website
